@@ -1,0 +1,16 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+nameko_services/dist
+nameko_services/build
+nameko_services/venv
+
+ros_ws/build
+ros_ws/devel
+
+.idea
